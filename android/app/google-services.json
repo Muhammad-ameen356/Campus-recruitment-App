@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33219040319",
+    "project_id": "final-hackathon-ameen",
+    "storage_bucket": "final-hackathon-ameen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33219040319:android:7ae0120d3833a3e77b548a",
+        "android_client_info": {
+          "package_name": "com.blooddonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33219040319-o3d8an7n1no5p8e0tp6ef8l2qr0b4an6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkx3GrH2Ak9zaLDHKHqgI-WdHSMbzh23U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33219040319-o3d8an7n1no5p8e0tp6ef8l2qr0b4an6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
